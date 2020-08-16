@@ -1,4 +1,7 @@
+👋 Hi, there  I am,
+
 ### Software Engineer
+
 - Software Engineer in E-Commerce,11st
 - I always learn, grow and write what I learn on my blog - "https://kojunhee.github.io"
 
