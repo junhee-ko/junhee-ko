@@ -6,7 +6,7 @@
 ### Interest
 - Java, Spring
 - Clean Code
-- Anything needed for a good product :+1:
+- Everything needed for a good product :+1:
 
 <div align="center">
 
