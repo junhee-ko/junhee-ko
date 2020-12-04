@@ -1,7 +1,7 @@
 ### Software Engineer
 
 - Software Engineer in Banksalad
-- I always learn, grow and write what I learn on my blog - https://kojunhee.github.io
+- I always learn, grow and write what I learn on my blog - https://junhee-ko.github.io
 
 ### Interest
 - Java, Spring
