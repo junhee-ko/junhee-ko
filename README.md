@@ -4,7 +4,7 @@
 - I always learn, grow and write what I learn on my blog - https://junhee-ko.github.io
 
 ### Interest
-- Java, Spring
+- Java, Kotlin, Spring
 - Clean Code
 - Everything needed for a good product :+1:
 
