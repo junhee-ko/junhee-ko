@@ -4,8 +4,7 @@
 - I always learn, grow and write what I learn on my blog - https://junhee-ko.github.io
 
 ### Interest
-- Java, Kotlin, Spring
-- Clean Code
+- Java, Spring, JPA, Kakfa
 - Everything needed for a good product :+1:
 
 <div align="center">
