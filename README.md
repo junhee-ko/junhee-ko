@@ -1,9 +1,10 @@
-### Software Engineer
+### Always Learning
 
-- Software Engineer in Banksalad
+- Software Engineer at Banksalad Corp.
 - I always learn, grow and write what I learn on my blog - https://junhee-ko.github.io
 
 ### Interest
+
 - Java, Spring, JPA, Kakfa
 - Everything needed for a good product :+1:
 
