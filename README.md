@@ -5,7 +5,7 @@
 
 ### Interest
 
-- Java, Spring, JPA, Kakfa
+- Java, Spring, OOP, JPA, Kakfa
 - Everything needed for a good product :+1:
 
 <div align="center">
