@@ -10,5 +10,5 @@
 
 ## Interest
 
-- Java, Spring, OOP, TDD, JPA, Kafka
+- Java, Spring, OOP, TDD, JPA, Kafka, RabbitMQ
 - Everything needed for a product
