@@ -12,3 +12,8 @@
 
 - Java, Spring, OOP, TDD, JPA, Kafka, RabbitMQ
 - Everything needed for a product
+
+## Link
+
+- Tech Blog : https://junhee-ko.github.io
+- LinkedIn : https://www.linkedin.com/in/junhee-ko
