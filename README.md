@@ -15,5 +15,5 @@
 
 ## Link
 
-- Blog : https://junhee-ko.github.io
-- LinkedIn : https://www.linkedin.com/in/junhee-ko
+- Tech Blog ( https://junhee-ko.github.io )
+- LinkedIn ( https://www.linkedin.com/in/junhee-ko )
