@@ -11,7 +11,7 @@
 
 ## Interest
 
-- Java, Spring, OOP, TDD, JPA, Kafka, RabbitMQ
+- Java, Kotlin, Spring, OOP, TDD, JPA, Kafka, RabbitMQ, GraphQL
 - Everything needed for a product
 
 ## Link
