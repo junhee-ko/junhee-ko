@@ -5,9 +5,9 @@
 
 ## Career
 
-- Software Engineer at KakaoPay
+- Software Engineer at KakaoPay ( Loan )
 - Software Engineer at Banksalad ( Mydata )
-- Software Engineer at 11street ( Focus Click, Today’s Pick, Download Report, Advertising Billing )
+- Software Engineer at 11street ( ADS Platform )
 
 ## Interest
 
