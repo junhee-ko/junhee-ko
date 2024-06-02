@@ -1,7 +1,10 @@
 ## Introduction
 
-- An avid blogger who believes sharing insights and understanding of a particular technology could lead to the team's growth including myself
-- A software engineer who strives for solid and flexible architecture
+"Always Learning"
+
+- I firmly believe that the growth of my team, colleagues, and company directly contributes to my own growth.
+- I strive to share what I learn with my teammates and other colleagues to foster mutual development.
+- I am passionate about writing readable code and developing flexible and robust services.
 
 ## Career
 
@@ -11,7 +14,7 @@
 
 ## Interest
 
-- Java, Kotlin, Spring, OOP, TDD, JPA, Kafka, RabbitMQ, GraphQL
+- Kotlin, Coroutines, Java, Spring, JPA, Kafka
 - Everything needed for a product
 
 ## Link
