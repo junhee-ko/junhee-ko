@@ -1,6 +1,6 @@
 ## Introduction
 
-"Always Learning"
+"Always Learning and Sharing"
 
 - I believe my growth is tied to the growth of my team, colleagues, and company.
 - I share my knowledge to foster mutual development.
