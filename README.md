@@ -2,9 +2,8 @@
 
 "Always Learning"
 
-- I firmly believe that the growth of my team, colleagues, and company directly contributes to my own growth.
-- I strive to share what I learn with my teammates and other colleagues to foster mutual development.
-- I am passionate about writing readable code and developing flexible and robust services.
+- I believe my growth is tied to the growth of my team, colleagues, and company.
+- I share my knowledge to foster mutual development.
 
 ## Career
 
@@ -14,7 +13,7 @@
 
 ## Interest
 
-- Kotlin, Coroutines, Java, Spring, JPA, Kafka
+- Kotlin, Coroutines, Spring, JPA, Kafka, MySQL, Kubernetes
 - Everything needed for a product
 
 ## Link
