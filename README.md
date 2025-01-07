@@ -15,8 +15,3 @@
 
 - Kotlin, Coroutines, Spring, JPA, Kafka, MySQL, Kubernetes
 - Everything needed for a product
-
-## Link
-
-- [Tech Blog](https://junhee-ko.github.io)
-- [LinkedIn](https://www.linkedin.com/in/junhee-ko)
