@@ -2,8 +2,8 @@
 
 "Always Learning and Sharing"
 
-- I believe my growth is tied to the growth of my team, colleagues, and company.
-- I share my knowledge to foster mutual development.
+- I strive for continuous growth and deeply value sharing as a way to grow together with others. 
+- I believe that meaningful development comes from mutual collaboration and knowledge sharing.
 
 ## Career
 
